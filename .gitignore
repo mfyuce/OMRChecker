@@ -12,3 +12,9 @@ outputs/*
 **/__pycache__
 venv/
 OMRChecker.wiki/
+
+/outputs/
+/outputs_20251219/
+/inputs_s_6/
+/del/
+/back/
