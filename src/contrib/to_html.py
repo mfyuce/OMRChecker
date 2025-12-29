@@ -8,10 +8,10 @@ import pytesseract
 # If needed on Windows:
 # pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-INPUT_DIR = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/results/1/mb2_deskewed_orig"
-OUTPUT_DIR = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/results/2/mb2_deskewed"
+INPUT_DIR = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/inputs/bu_makeup/makeup"
+#OUTPUT_DIR = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/results/2/mb2_deskewed"
 
-OMR_CSV = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/results/2/mb2_deskewed/Results/Results_09AM.csv"
+OMR_CSV = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/results/makeup/makeup/Results/Results_08PM.csv"
 FULL_HTML  = "full_report.html"
 LIGHT_HTML = "light_report.html"
 

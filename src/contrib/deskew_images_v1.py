@@ -30,6 +30,6 @@ def process_folder(in_folder="./pages", out_folder="./aligned"):
 # ------------------------------------------------------
 
 if __name__ == "__main__":
-    input_folder = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/back/mb2"
-    output_folder = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/back/mb2_deskewed"
+    input_folder = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/back/makeup"
+    output_folder = "/home/fatihyuce/work/projects/tmp/optical_form/apps/OMRChecker/back/makeup_deskewed"
     process_folder(input_folder, output_folder)
